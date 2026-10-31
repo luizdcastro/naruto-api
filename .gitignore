@@ -9,3 +9,4 @@ git commit # dependencies
 
 # production
 /build
+config.env
